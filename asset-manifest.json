@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/React-props-state-components/static/css/main.e06697bc.css",
+    "main.js": "/React-props-state-components/static/js/main.8294194d.js",
+    "static/media/logo.svg": "/React-props-state-components/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/React-props-state-components/index.html",
+    "main.e06697bc.css.map": "/React-props-state-components/static/css/main.e06697bc.css.map",
+    "main.8294194d.js.map": "/React-props-state-components/static/js/main.8294194d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e06697bc.css",
+    "static/js/main.8294194d.js"
+  ]
+}
